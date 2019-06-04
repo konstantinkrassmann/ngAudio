@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="logo/1024px.svg" width=100%>
+</h1>
+
 NG-AUDIO
 ===
 
@@ -20,6 +24,15 @@ Total awesomeness for playing sounds. Project page here:
 
 ##[Angular Audio Project Page](http://danielstern.github.io/ngAudio/)
 ##[Angular Audio Documentation](http://danielstern.github.io/ngAudio/#/docs)
+
+
+Release Notes v1.7.4
+
+- Updated Angular dependency to support 1.6.x
+
+Release Notes v1.7.3
+
+- Add toFinish callback
 
 Release Notes v1.7.2
 
